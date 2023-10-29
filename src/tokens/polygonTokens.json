@@ -20735,5 +20735,23 @@
                 "website": "https://verse.bitcoin.com/"
             }
         }
+    },
+    {
+    "chainId": 137, 
+    "name": "Nazarium",
+    "symbol": "NZR",
+    "decimals": 2,
+    "address": "0xb8C22243b491d813ddDEaCD32B937211C79EA55d",
+    "logoURI": "https://i.imgur.com/kSMLz32.png",
+    "tags": ["erc20", "native", "meme"],
+    "extensions": {
+        "rootAddress": "0xd8375aFAa23E9BfB782DD0f598E4e954CE175936",
+        "project": {
+            "name": "Nazarium",
+            "summary": "Nazarium meme-coin about the old grandfather",
+            "contact": "zello89@yandex.ru"
+        },
+        
     }
+}
 ]
